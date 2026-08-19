@@ -21,3 +21,7 @@ Bundle ID: `com.criticalforce.criticalops`
 ## Disclaimer
 
 For educational purposes only. Use at your own risk.
+
+## Preview
+
+![Chams](chams.jpg)
