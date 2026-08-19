@@ -1,0 +1,9 @@
+Package: com.cihan.metalchams
+Name: MetalChams
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Metal wallhack chams
+Maintainer: cihan
+Author: cihan
+section: Tweaks
+Priority: optional
