@@ -12,8 +12,6 @@ The original approach hooked `_MTLDevice newLibraryWithSource:options:error:` an
 
 - Keeps only the depth override (wallhack)
 
-The dylib is produced at `.theos/obj/debug/arm64/metalchams.dylib`.
-
 ## Install
 
 Inject the dylib into the Critical Ops binary (the usual Theos/substrate/repack flow), or sideload a repacked IPA.
